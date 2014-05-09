@@ -1,0 +1,1 @@
+c:\users\kai.chen\documents\visual studio 2012\Projects\AopDemo\AopDemo\bin\Debug\AopDemo.exe.config
